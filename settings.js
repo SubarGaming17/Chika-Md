@@ -28,21 +28,21 @@ global.ownernomer = '6285856575305' //ubah jadi nomor mu, note tanda ' gausah di
 
 //—————「 Set Nama Own & Bot 」—————//
 global.ownername = 'SubarGanzz' //ubah jadi nama mu, note tanda ' gausah di hapus!
-global.botname = 'FannBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.botname = 'SubarBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.footer = 'SubarGanzz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Kebutuhan Button & Kontak 」—————//
 //ubah aja kalau ada yang gapunya gsh di hps anggap aja credits :), note tanda ' gausah di hapus!
 global.youtube = 'https://youtube.com/channel/UC8G_J3AE6B40Ejtg_deYNcA'
-global.ig = 'https://instagram.com/Subar Gaming17'
-global.mygc = 'https://chat.whatsapp.com/CRY23lVKmXB7sCMhHmcwVw'
-global.myweb = 'https://s.id/chikabot'
+global.ig = 'https://instagram.com/subar gaming17'
+global.mygc = 'https://chat.whatsapp.com/Iutn7WaVV4vLjAuCSllFPq'
+global.myweb = 'Gak punya bang'
 global.email = 'akbarhibrizi17@gmail.com'
 global.region = 'indonesia'
 
 //—————「 Set Wm 」—————//
-global.packname = '© Chika-Md' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
-global.author = 'Riy' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.packname = '© SubarBotz' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
+global.author = 'SubarGanzz' //ubah jadi nama mu, note tanda ' gausah di hapus!
 
 //—————「 Set Nama Session 」—————//
 //gausah di apa² in!
